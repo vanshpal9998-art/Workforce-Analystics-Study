@@ -1,0 +1,25 @@
+WORKFORCE ANALYTICS BUSINESS INSIGHTS
+=============================================
+
+Total Employees: 1470
+Employees Left: 237
+Attrition Label Share: 16.12%
+
+KEY FINDINGS:
+1. The organization has 1470 employee records.
+2. 237 employees are marked as having left.
+3. The overall attrition label share is 16.12%.
+4. Sales has the highest department attrition percentage (20.63%).
+
+DEPARTMENT ANALYSIS:
+                        Total_Employees  Employees_Left  Attrition_Percentage
+Department                                                                   
+Sales                               446              92                 20.63
+Human Resources                      63              12                 19.05
+Research & Development              961             133                 13.84
+
+OVERTIME ANALYSIS:
+Attrition     No    Yes
+OverTime               
+No         89.56  10.44
+Yes        69.47  30.53

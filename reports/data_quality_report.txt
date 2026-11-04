@@ -1,0 +1,9 @@
+WORKFORCE ANALYTICS - DATA QUALITY REPORT
+
+Original Dataset Shape: (1470, 35)
+Final Dataset Shape: (1470, 32)
+Duplicates Before Cleaning: 0
+Duplicates After Cleaning: 0
+Missing Values Before Cleaning: 0
+Missing Values After Cleaning: 0
+Removed Constant Columns: ['EmployeeCount', 'Over18', 'StandardHours']
